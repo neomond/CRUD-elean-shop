@@ -1,3 +1,1 @@
-# This is the elean-shop project's SECOND file.
-
-# This is where you can find product data. 
+# This is the elean-shop project's SECOND file where you can find product data. 
